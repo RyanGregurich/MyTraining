@@ -1,4 +1,4 @@
-<p style="text-align: center;">Hello world, Ryan Gregurich here.&nbsp;<br>I recently completed an excellent course on Udemy called&nbsp;<br>&quot;Network and Systems Administrator Technical Training&quot; by Jobskillshare.org.<br>&nbsp;I&apos;d like to share my personal journey by providing a detailed overview of the skills and knowledge I gained.<br><br></p>
+<p style="text-align: center;">Hello world, Ryan Gregurich here. I recently completed an excellent course on Udemy called &quot;Network and Systems Administrator Technical Training&quot; by Jobskillshare.org. I&apos;d like to share my personal journey by providing a detailed overview of the skills and knowledge I gained.<br><br></p>
 <p>Purpose:&nbsp;</p>
 <p>1. Validation of CompTIA Network+ skills and preparation for CCNA.</p>
 <p>2. While the Network+ course provided great material, I aimed to gain hands-on practice and fill any knowledge gaps before delving into CCNA studies.<br><br></p>
