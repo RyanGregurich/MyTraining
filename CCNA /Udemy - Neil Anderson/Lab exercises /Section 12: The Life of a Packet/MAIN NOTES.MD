@@ -4,7 +4,6 @@
 <p style='margin:0in;font-size:16px;font-family:"Arial MT",sans-serif;margin-top:13.75pt;'>&nbsp;</p>
 <h1 style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:1.0pt;text-align:center;font-size:21px;font-family:"Arial",sans-serif;text-decoration:underline;'>Lab Topology</h1>
 <blockquote class="imgur-embed-pub" lang="en" data-id="a/Uzne7RB"><a href="//imgur.com/a/Uzne7RB"></a></blockquote>
-<script async="" src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 <p><br></p>
 <p style="margin:0in;font-size:16px;font-family:&quot;Arial MT&quot;,sans-serif;"></p>
 <p style='margin:0in;font-size:15px;font-family:"Arial MT",sans-serif;margin-top:.05pt;margin-right:.05pt;margin-bottom:.0001pt;margin-left:1.0pt;text-align:center;'><img src="https://i.imgur.com/WWg6iiK.jpg" alt="" width="400"><br></p>
