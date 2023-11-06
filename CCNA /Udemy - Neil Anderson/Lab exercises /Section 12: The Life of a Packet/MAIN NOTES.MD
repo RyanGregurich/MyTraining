@@ -1,11 +1,12 @@
-<p style='margin-top:3.0pt;margin-right:0in;margin-bottom:0in;margin-left:42.55pt;font-size:27px;font-family:"Arial",sans-serif;font-weight:bold;text-decoration:underline;'>12&nbsp;The&nbsp;Life&nbsp;of&nbsp;a&nbsp;Packet&nbsp;-&nbsp;Lab&nbsp;Exercise</p>
-<p style='margin:0in;font-size:16px;font-family:"Arial MT",sans-serif;'><strong><span style='font-family:"Arial",sans-serif;'>&nbsp;</span></strong></p>
-<p style='margin:0in;font-size:16px;font-family:"Arial MT",sans-serif;margin-left:5.0pt;'>This&nbsp;lab&nbsp;explores&nbsp;DNS&nbsp;configuration&nbsp;on&nbsp;Cisco&nbsp;routers&nbsp;and&nbsp;the&nbsp;ARP&nbsp;cache.</p>
-<p style='margin:0in;font-size:16px;font-family:"Arial MT",sans-serif;margin-top:13.75pt;'>&nbsp;</p>
+<p style="margin: 3pt 0in 0in 42.55pt; font-size: 27px; font-family: Arial, sans-serif; font-weight: bold; text-decoration: underline; text-align: center;">12 The Life of a Packet - Lab Exercise</p>
+<p style='margin: 0in; font-size: 16px; font-family: "Arial MT", sans-serif; text-align: center;'><strong><span style='font-family:"Arial",sans-serif;'>&nbsp;</span></strong></p>
+<p style='margin: 0in 0in 0in 5pt; font-size: 16px; font-family: "Arial MT", sans-serif; text-align: center;'>This&nbsp;lab&nbsp;explores&nbsp;DNS&nbsp;configuration&nbsp;on&nbsp;Cisco&nbsp;routers&nbsp;and&nbsp;the&nbsp;ARP&nbsp;cache.</p>
+<p style='margin: 13.75pt 0in 0in; font-size: 16px; font-family: "Arial MT", sans-serif; text-align: center;'>&nbsp;</p>
 <h1 style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:1.0pt;text-align:center;font-size:21px;font-family:"Arial",sans-serif;text-decoration:underline;'>Lab Topology</h1>
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/Uzne7RB"><a href="//imgur.com/a/Uzne7RB"></a></blockquote>
-<p><br></p>
-<p style="margin:0in;font-size:16px;font-family:&quot;Arial MT&quot;,sans-serif;"></p>
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/Uzne7RB">
+    <div style="text-align: center;"><a href="//imgur.com/a/Uzne7RB"></a></div>
+</blockquote>
+<p style='margin: 0in; font-size: 16px; font-family: "Arial MT", sans-serif; text-align: center;'><br></p>
 <p style='margin:0in;font-size:15px;font-family:"Arial MT",sans-serif;margin-top:.05pt;margin-right:.05pt;margin-bottom:.0001pt;margin-left:1.0pt;text-align:center;'><img src="https://i.imgur.com/WWg6iiK.jpg" alt="" width="400"><br></p>
 <p style='margin:0in;font-size:15px;font-family:"Arial MT",sans-serif;margin-top:.05pt;margin-right:.05pt;margin-bottom:.0001pt;margin-left:1.0pt;text-align:center;'><strong><u><span style='font-size:21px;font-family:"Arial",sans-serif;'>Load the Startup Configurations</span></u></strong></p>
 <p style='margin:0in;font-size:16px;font-family:"Arial MT",sans-serif;margin-top:4.65pt;'><strong><span style='font-family:"Arial",sans-serif;'>&nbsp;</span></strong></p>
@@ -49,4 +50,4 @@
         <li style='margin:0in;font-size:15px;font-family:"Arial MT",sans-serif;'><span style="font-size:16px;">Verify the ARP cache on R1, R2 and R3. What do you see?</span></li>
     </ol>
 </div>
-<p></p>
+<p><br></p>
